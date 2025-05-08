@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-05-08T02:13:15.412976Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-05-08T02:12:55.205532Z",
+      "mimetype": "image/png",
+      "name": "tut2.png",
+      "path": "raw/notebooks/intro_to_programming/raw/images/tut2.png",
+      "size": 57825,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-05-08T02:13:15.416545Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-05-08T02:12:55.207504Z",
+      "mimetype": "image/png",
+      "name": "tut2_2.png",
+      "path": "raw/notebooks/intro_to_programming/raw/images/tut2_2.png",
+      "size": 45226,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-05-08T02:13:15.414777Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-05-08T02:12:55.208755Z",
+      "mimetype": "image/png",
+      "name": "tut2_1.png",
+      "path": "raw/notebooks/intro_to_programming/raw/images/tut2_1.png",
+      "size": 124103,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-05-08T02:13:15.415949Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-05-08T02:13:15.415949Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "raw/notebooks/intro_to_programming/raw/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

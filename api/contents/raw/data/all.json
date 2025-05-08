@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-05-08T02:13:15.402188Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-05-08T02:12:14.276851Z",
+      "mimetype": "text/csv",
+      "name": "train.csv",
+      "path": "raw/data/train.csv",
+      "size": 61194,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-05-08T02:13:15.401496Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-05-08T02:13:15.401496Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "raw/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

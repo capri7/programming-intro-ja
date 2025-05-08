@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-05-08T02:13:15.423644Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-05-08T02:13:15.423644Z",
+      "mimetype": null,
+      "name": "raw",
+      "path": "raw/notebooks/intro_to_programming/raw",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-05-08T02:13:15.403316Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-05-08T02:13:15.403316Z",
+  "mimetype": null,
+  "name": "intro_to_programming",
+  "path": "raw/notebooks/intro_to_programming",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
