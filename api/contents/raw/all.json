@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-05-08T06:42:24.248315Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-05-08T06:42:24.248315Z",
+      "mimetype": null,
+      "name": "packages",
+      "path": "raw/packages",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-05-08T06:42:24.224854Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-05-08T06:42:24.224854Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "raw/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-05-08T06:42:24.226627Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-05-08T06:42:24.226627Z",
+      "mimetype": null,
+      "name": "notebooks",
+      "path": "raw/notebooks",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-05-08T06:42:24.248006Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-05-08T06:42:24.248006Z",
+  "mimetype": null,
+  "name": "raw",
+  "path": "raw",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
