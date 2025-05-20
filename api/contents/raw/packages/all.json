@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-05-20T08:01:40.814447Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-05-20T07:49:45.160520Z",
+      "mimetype": null,
+      "name": "learntools-0.3.5-py3-none-any.whl",
+      "path": "raw/packages/learntools-0.3.5-py3-none-any.whl",
+      "size": 36722,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-05-20T08:01:40.813900Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-05-20T08:01:40.813900Z",
+  "mimetype": null,
+  "name": "packages",
+  "path": "raw/packages",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
